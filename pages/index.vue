@@ -9,7 +9,7 @@
     <div>
        <p>Ce projet à pour but de référencer les bases de git pour être en mesure d'utiliser et comprendre la gestion de versions.</p> 
 
-       <p>truc dont tu as besoin</p>
+       <p>un composant</p>
     </div>
 </template>
 
